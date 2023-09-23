@@ -1,0 +1,33 @@
+{
+    "ACTIVITY_TYPE.NAME":"Nom de type d'activite",
+    "ACTIVITY_TYPE.BUSINESS_UNIT":"Nom de business units",
+	"ACTIVITY_TYPE.ACTIVITY.NAME":"Nom de l'activé",
+    "ACTIVITY_TYPE.MSG.ACTIVATED":"cette type dactivite a été désactiver avec succèes",
+    "ACTIVITY_TYPE.MSG.DEACTIVATED":"cette type dactivite a été activé avec succées",
+    "ACTIVITY_TYPE.FILTER.TITLE":"Recherche avanceé",
+    "ACTIVITY_TYPE.LIST.TITLE":"listes des type dactivites",
+    "ACTIVITY_TYPE.NEW.TITLE":"Créer une nouvelle type dactivite",
+    "ACTIVITY_TYPE.NEW.MSG":"Cette entreprise a été créée avec succès",
+    "ACTIVITY_TYPE.EDIT.TITLE":"Modifier cette entreprise",
+    "ACTIVITY_TYPE.SHOW.TITLE":"Afficher les informations de la type dactivite",
+    "ACTIVITY_TYPE.EDIT.MSG":"Cette entreprise a été mise à jour avec succès",
+	"ACTIVITY_TYPE.DELETE":"Supprimer le type d'activite",    
+    
+    "ACTIVITY_TYPE.MULTIPLE_DISABLE.TITLE":"Désactiver les entreprises",
+    "ACTIVITY_TYPE.MULTIPLE_DISABLE.MSG":"Êtes-vous sûr de désactiver les type dactivites sélectionnées?",
+    "ACTIVITY_TYPE.MULTIPLE_ENABLE.TITLE":"Activer les type dactivites sélectionnées",
+    "ACTIVITY_TYPE.MULTIPLE_ENABLE.MSG":"Êtes-vous sûr d'activer les entreprises sélectionnées?",
+    "ACTIVITY_TYPE.DISABLE.TITLE":"Désactiver l'entreprise",
+    "ACTIVITY_TYPE.DISABLE.MSG":"Êtes-vous sûr de désactiver cette entreprise?",
+    "ACTIVITY_TYPE.ENABLE.TITLE":"Activer la filile",
+    "ACTIVITY_TYPE.ENABLE.MSG":"Êtes-vous sûr d'activer cette entreprise?",
+    "ACTIVITY_TYPE_ACTIVITYS_TITLE":"Les activite associées a cette type dactivite",
+    "ACTIVITY_TYPE.INPUT.ACTIVITY":"Ajouter une activite",
+    "ACTIVITY_TYPE.FILTER.DELETE":"Afficher les entreprises supprimés",
+    "ACTIVITY_TYPE.EDIT":"Modifier l'entreprise",
+    "ACTIVITY_TYPE.SHOW":"Afficher l'entreprise",
+    "ACTIVITY_TYPE.DISABLE":"Désactiver l'entreprise",
+    "ACTIVITY_TYPE.ENABLE":"Activer l'entreprise",
+    "ACTIVITY_TYPE.ACTIVITY.TITLE":"les activite associés à cette type dactivite"
+ 
+}

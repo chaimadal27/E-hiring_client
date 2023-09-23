@@ -1,0 +1,8 @@
+export const RESOURCE_STATES = "/api/resource-state"
+export const RESOURCE_STATE = "/api/resource-state/:param"
+export const RESOURCE_STATE_DELETE = "/api/resource-state/:param/delete"
+export const RESOURCE_STATE_DEACTIVATE = "/api/resource-state/:param/deactivate"
+export const RESOURCE_STATE_ACTIVATE = "/api/resource-state/:param/activate"
+export const RESOURCE_STATE_DELETE_ALL = "/api/resource-state/delete/all"
+export const RESOURCE_STATE_DEACTIVATE_ALL = "/api/resource-state/deactivate/all"
+export const RESOURCE_STATE_ACTIVATE_ALL = "/api/resource-state/activate/all"

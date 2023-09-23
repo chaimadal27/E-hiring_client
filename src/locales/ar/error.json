@@ -1,0 +1,21 @@
+{
+  "ERROR.NOT_FOUND.TITLE": "الصفحة غير موجودة" ,
+  "ERROR.NOT_FOUND.SUB_TITLE": "لا يمكننا العثور على الصفحة التي تبحث عنها" ,
+  "ERROR.NOT_FOUND.DESC": "عفوًا! يبدو أنك اتبعت الرابط الخاطئ. إذا كنت تعتقد أن هذا خطأ في الخادم , فيرجى إخبارنا بذلك." ,
+  
+  "ERROR.INTERNAL_ERROR.TITLE": "خطأ داخلي" ,
+  "ERROR.INTERNAL_ERROR.SUB_TITLE": "حدث خطأ ما" ,
+  "ERROR.INTERNAL_ERROR.DESC": "هناك دائمًا وقت استراحة لتناول القهوة.سوف نعود عندما تنتهي من قهوتك.",
+
+  "ERROR.FORBIDDEN.TITLE": "الدخول محظور" ,
+  "ERROR.FORBIDDEN.SUB_TITLE": "عذرًا , لكن لا يمكنك الوصول إلى هذه الصفحة" ,
+  "ERROR.FORBIDDEN.DESC": "إذا كنت تعتقد أن هذا خطأ في الخادم , فيرجى الاتصال بالدعم" ,
+
+  "ERROR.CODE.BAD_CREDENTIALS": "كلمة مرور خاطئة. حاول مرة أخرى أو انقر فوق نسيت كلمة المرور لإعادة تعيينها.",
+  "ERROR.CODE.RESET_PASSWORD_FAILED": "انتهت صلاحية رمز إعادة التعيين الخاص بك أو أنه غير صالح.",
+
+  "ERROR.NOT_FOUND.BUTTON": "رجوع" ,
+
+  "ERROR.CODE.NOT_FOUND": "معذرة , لكن الصفحة التي تبحث عنها غير موجودة.",
+  "ERROR.CODE.INTERNAL_ERROR": "حدث خطأ."
+}

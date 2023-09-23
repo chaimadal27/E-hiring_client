@@ -1,0 +1,38 @@
+{
+    "BUSINESS_UNIT_NAME":"Nom de la business unit",
+    "BUSINESS_UNIT_MANAGER":"Business unit manager",
+    "BUSINESS_UNIT_IS_DELETED":"est supprimee?",
+    "BUSINESS_UNIT_LEGAL_AGENCY":"Agence Juridique",
+
+    "BUSINESS_UNIT.DELETE.TITLE":"Supprimer business unit",
+    "BUSINESS_UNIT.DELETE.MSG":"Êtes-vous sûr de vouloir supprimer cet business unit?",
+    "BUSINESS_UNIT.DISABLE.TITLE":"Désactiver le business unit",
+    "BUSINESS_UNIT.DISABLE.MSG":"Êtes-vous sûr de désactiver cet business unit?",
+    "BUSINESS_UNIT.ENABLE.TITLE":"Activer l'utilisateur",
+    "BUSINESS_UNIT.ENABLE.MSG":"Êtes-vous sûr d'activer cet utilisateur?",
+    "BUSINESS_UNIT.MULTIPLE_DELETE.TITLE":"Supprimer les business units sélectionnés",
+    "BUSINESS_UNIT.MULTIPLE_DELETE.MSG":"Êtes-vous sûr de supprimer les business units sélectionnés?",
+    "BUSINESS_UNIT.MULTIPlE_DISABLE.TITLE":"Désactiver les business units sélectionnés",
+    "BUSINESS_UNIT.MULTIPlE_DISABLE.MSG":"Êtes-vous sûr de désactiver les business units sélectionnés?",
+    "BUSiNESS_UNIT.MULTIPLE_ENABLE.TITLE":"Activer les business units sélectionnés",
+    "BUSINESS_UNIT.MULTIPLE_ENABLE.MSG":"Êtes-vous sûr d'activer les business units sélectionnés?",
+
+    "BUSINESS_UNIT.EDIT":"Modifier business unit",
+    "BUSINESS_UNIT.SHOW":"Afficher business unit",
+    "BUSINESS_UNIT.DISABLE":"Désactiver business unit",
+    "BUSINESS_UNIT.ENABLE":"Activier business unit",
+    "BUSINESS_UNIT.DELETE":"Supprimer business unit",
+    
+    "BUSINESS_UNIT.FILTER.DELETE":"Afficher les business units supprimés",
+    "BUSINESS_UNIT.MSG.DELETE":"Afficher les business units supprimés",
+    "BUSINESS_UNIT.MSG.ENABLE":"Cet business unit a été activé avec succès",
+    "BUSINESS_UNIT.MSG.DISABLE":"Cet business unit a été désactivé avec succès",
+    "BUSINESS_UNIT.LIST.TITLE":"Liste des business units",
+    
+    "BUSINESS_UNIT.NEW.TITLE":"Créer un nouvel business unit",
+    "BUSINESS_UNIT.EDIT.TITLE":"Modifier cet business unit",
+    "BUSINESS_UNIT.EDIT.MSG":"Cet business unit a été modifié avec succès",
+    "BUSINESS_UNIT.NEW.MSG":"Cet business unit a été crée avec succès",
+    "BUSINESS_UNIT.SHOW.TITLE":"Afficher les informations de business unit"
+    
+}

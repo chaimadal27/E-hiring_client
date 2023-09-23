@@ -1,0 +1,54 @@
+// activity
+// clear store
+export const CLEAR_ACTIVITY = "activity@CLEAR_ACTIVITY"
+// fetch all activities
+export const FETCH_ACTIVITIES_INIT = "activities@FETCH_ACTIVITIES_INIT"
+export const FETCH_ACTIVITIES_SUCCEDED = "activities@FETCH_ACTIVITIES_SUCCEDED"
+export const FETCH_ACTIVITIES_FAILED = "activities@FETCH_ACTIVITIES_FAILED"
+// fetch activity
+export const FETCH_ACTIVITY_INIT = "activity@FETCH_ACTIVITY_INIT"
+export const FETCH_ACTIVITY_SUCCEDED = "activity@FETCH_ACTIVITY_SUCCEDED"
+export const FETCH_ACTIVITY_FAILED = "activity@FETCH_ACTIVITY_FAILED"
+// create activity
+export const CREATE_ACTIVITY_INIT = "activity@CREATE_ACTIVITY_INIT"
+export const CREATE_ACTIVITY_SUCCEDED = "activity@CREATE_ACTIVITY_SUCCEDED"
+export const CREATE_ACTIVITY_FAILED = "activity@CREATE_ACTIVITY_FAILED"
+// edit activity
+export const EDIT_ACTIVITY_INIT = "activity@EDIT_ACTIVITY_INIT"
+export const EDIT_ACTIVITY_SUCCEDED = "activity@EDIT_ACTIVITY_SUCCEDED"
+export const EDIT_ACTIVITY_FAILED = "activity@EDIT_ACTIVITY_FAILED"
+// delete activity
+export const DELETE_ACTIVITY_INIT = "activity@DELETE_ACTIVITY_INIT"
+export const DELETE_ACTIVITY_SUCCEDED = "activity@DELETE_ACTIVITY_SUCCEDED"
+export const DELETE_ACTIVITY_FAILED = "activity@DELETE_ACTIVITY_FAILED"
+// disable activity
+export const DISABLE_ACTIVITY_INIT = "activity@DISABLE_ACTIVITY_INIT"
+export const DISABLE_ACTIVITY_SUCCEDED = "activity@DISABLE_ACTIVITY_SUCCEDED"
+export const DISABLE_ACTIVITY_FAILED = "activity@DISABLE_ACTIVITY_FAILED"
+// enable activity
+export const ENABLE_ACTIVITY_INIT = "activity@ENABLE_ACTIVITY_INIT"
+export const ENABLE_ACTIVITY_SUCCEDED = "activity@ENABLE_ACTIVITY_SUCCEDED"
+export const ENABLE_ACTIVITY_FAILED = "activity@ENABLE_ACTIVITY_FAILED"
+// delete all activities
+export const DELETE_ALL_ACTIVITIES_INIT = "activities@DELETE_ALL_ACTIVITIES_INIT"
+export const DELETE_ALL_ACTIVITIES_SUCCEDED = "activities@DELETE_ALL_ACTIVITIES_SUCCEDED"
+export const DELETE_ALL_ACTIVITIES_FAILED = "activities@DELETE_ALL_ACTIVITIES_FAILED"
+// disable all activities
+export const DISABLE_ALL_ACTIVITIES_INIT = "activities@DISABLE_ALL_ACTIVITIES_INIT"
+export const DISABLE_ALL_ACTIVITIES_SUCCEDED = "activities@DISABLE_ALL_ACTIVITIES_SUCCEDED"
+export const DISABLE_ALL_ACTIVITIES_FAILED = "activities@DISABLE_ALL_ACTIVITIES_FAILED"
+// enable all activities
+export const ENABLE_ALL_ACTIVITIES_INIT = "activities@ENABLE_ALL_ACTIVITIES_INIT"
+export const ENABLE_ALL_ACTIVITIES_SUCCEDED = "activities@ENABLE_ALL_ACTIVITIES_SUCCEDED"
+export const ENABLE_ALL_ACTIVITIES_FAILED = "activities@ENABLE_ALL_ACTIVITIES_FAILED"
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+{
+  "LIST.MENU.EDIT.TITLE": "Nom de la liste",
+  "LIST.EDIT.TITLE": "Modifier cette liste",
+  "LIST.INPUT.NAME":"nom",
+  "LIST.OPTION" :"Ajouter une option",
+  "LIST.INPUT.ORDRE":"ordre",
+  "LIST.INPUT.OPTION":"option",
+  "LIST.INPUT.NAME":"nom de la liste",
+  "LIST.SHOW":"Afficher la liste",
+  "LIST.EDIT":"Modifier les options",
+  "LIST.EDIT.SUCCESS":"Cette liste a été mise à jour avec succès"
+
+  
+}

@@ -1,0 +1,7 @@
+export const LEGAL_AGENCIES = "/api/legal-agencies"
+export const LEGAL_AGENCY = "/api/legal-agencies/:param"
+export const LEGAL_AGENCY_DEACTIVATE = "/api/legal-agencies/:param/deactivate"
+export const LEGAL_AGENCY_ACTIVATE = "/api/legal-agencies/:param/activate"
+export const LEGAL_AGENCIES_DEACTIVATE_ALL = "/api/legal-agencies/deactivate/all"
+export const LEGAL_AGENCIES_ACTIVATE_ALL = "/api/legal-agencies/activate/all"
+export const LEGAL_AGENCY_EXPORT = "/api/legal-agencies/export"

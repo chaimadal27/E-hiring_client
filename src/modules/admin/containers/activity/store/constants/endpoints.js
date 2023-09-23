@@ -1,0 +1,8 @@
+export const ACTIVITIES = "/api/activity"
+export const ACTIVITY = "/api/activity/:param"
+export const ACTIVITY_DELETE = "/api/activity/:param/delete"
+export const ACTIVITY_DISABLE = "/api/activity/:param/deactivate"
+export const ACTIVITY_ENABLE = "/api/activity/:param/activate"
+export const ACTIVITIES_DELETE_ALL = "/api/activity/delete/all"
+export const ACTIVITIES_DISABLE_ALL = "/api/activity/deactivate/all"
+export const ACTIVITIES_ENABLE_ALL = "/api/activity/activate/all"
